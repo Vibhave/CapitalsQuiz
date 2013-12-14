@@ -1,0 +1,572 @@
+{
+  "Questions": [
+    {
+      "Question": "Capital of India?",
+      "CorrectAnswer": 1,
+      "Answers": [
+        {
+          "Answer": "Moscow"
+        },
+        {
+          "Answer": "Delhi"
+        },
+        {
+          "Answer": "London"
+        },
+        {
+          "Answer": "Madrid"
+        }
+      ]
+    },
+    {
+      "Question": "Which country has its capital as Washington DC",
+      "CorrectAnswer": 0,
+      "Answers": [
+        {
+          "Answer": "USA"
+        },
+        {
+          "Answer": "UK"
+        },
+        {
+          "Answer": "Belarus"
+        },
+        {
+          "Answer": "India"
+        }
+      ]
+    },
+    
+        {
+      "Question": "What is the capital of UAE",
+      "CorrectAnswer": 0,
+      "Answers": [
+        {
+          "Answer": "Abu Dhabi"
+        },
+        {
+          "Answer": "Dubai"
+        },
+        {
+          "Answer": "Al Fujiyarah"
+        },
+        {
+          "Answer": "Sharjah"
+        }
+      ]
+    },
+    
+        {
+      "Question": "What is the capital of Ukraine",
+      "CorrectAnswer": 1,
+      "Answers": [
+        {
+          "Answer": "Prague"
+        },
+        {
+          "Answer": "Kiev"
+        },
+        {
+          "Answer": "Bratislava"
+        },
+        {
+          "Answer": "Warsaw"
+        }
+      ]
+    },
+    
+           {
+      "Question": "Which city was the old capital of Costa Rica?",
+      "CorrectAnswer": 0,
+      "Answers": [
+        {
+          "Answer": "Alajuela"
+        },
+        {
+          "Answer": "San Juan"
+        },
+        {
+          "Answer": "San Jose"
+        },
+        {
+          "Answer": "Juan Santamaria"
+        }
+      ]
+    },
+    
+      {
+      "Question": "Which is the capital of China ",
+      "CorrectAnswer": 2,
+      "Answers": [
+        {
+          "Answer": "Shanghai"
+        },
+        {
+          "Answer": "Hong Kong"
+        },
+        {
+          "Answer": "Beijing"
+        },
+        {
+          "Answer": "Guangzhou"
+        }
+      ]
+    },
+    
+          {
+      "Question": "Ulan Bator is the capital of which country?",
+      "CorrectAnswer": 3,
+      "Answers": [
+        {
+          "Answer": "Uzbekistan"
+        },
+        {
+          "Answer": "Kazakstan"
+        },
+        {
+          "Answer": "Tajikstan"
+        },
+        {
+          "Answer": "Mongolia"
+        }
+      ]
+    },
+    
+     {
+      "Question": "The capital of Russia is",
+      "CorrectAnswer": 1,
+      "Answers": [
+        {
+          "Answer": "St Petersburg"
+        },
+        {
+          "Answer": "Moscow"
+        },
+        {
+          "Answer": "Vladivostok"
+        },
+        {
+          "Answer": "Leningrad"
+        }
+      ]
+    },
+    
+         {
+      "Question": "Belfast is the capital of",
+      "CorrectAnswer": 0,
+      "Answers": [
+        {
+          "Answer": "Northern Ireland"
+        },
+        {
+          "Answer": "United Kingdom"
+        },
+        {
+          "Answer": "Ireland"
+        },
+        {
+          "Answer": "Scotland"
+        }
+      ]
+    },
+    
+             {
+      "Question": "Which is the capial closest to the equator?",
+      "CorrectAnswer": 1,
+      "Answers": [
+        {
+          "Answer": "Ascuncion"
+        },
+        {
+          "Answer": "Quito"
+        },
+        {
+          "Answer": "Panama City"
+        },
+        {
+          "Answer": "Brasilia"
+        }
+      ]
+    },
+    
+                 {
+      "Question": "Which capital city apart from Washington D.C., is named after a US president? ",
+      "CorrectAnswer": 1,
+      "Answers": [
+        {
+          "Answer": "Libreville"
+        },
+        {
+          "Answer": "Monrovia"
+        },
+        {
+          "Answer": "Cida de Juan Santamaria"
+        },
+        {
+          "Answer": "Vatican City"
+        }
+      ]
+    },
+    
+     {
+      "Question": "Which is the largest capital city in Africa",
+      "CorrectAnswer": 2,
+      "Answers": [
+        {
+          "Answer": "Dar es Salam"
+        },
+        {
+          "Answer": "Johannesburg"
+        },
+        {
+          "Answer": "Cairo"
+        },
+        {
+          "Answer": "Addis Ababa"
+        }
+      ]
+    },
+    
+    {
+      "Question": "Which capital city was previously called Salisbury",
+      "CorrectAnswer": 2,
+      "Answers": [
+        {
+          "Answer": "Johannesburg"
+        },
+        {
+          "Answer": "London"
+        },
+        {
+          "Answer": "Harare"
+        },
+        {
+          "Answer": "Sydney"
+        }
+      ]
+    },
+    
+    {
+      "Question": "What is the capital of Australia?",
+      "CorrectAnswer": 3,
+      "Answers": [
+        {
+          "Answer": "Perth"
+        },
+        {
+          "Answer": "Melbourne"
+        },
+        {
+          "Answer": "Sydney"
+        },
+        {
+          "Answer": "Canberra"
+        }
+      ]
+    },
+    
+        {
+      "Question": "Which if the following is not the capital of South Africa?",
+      "CorrectAnswer": 2,
+      "Answers": [
+        {
+          "Answer": "Pretoria"
+        },
+        {
+          "Answer": "Cape Town"
+        },
+        {
+          "Answer": "Durban"
+        },
+        {
+          "Answer": "Johannesburg"
+        }
+      ]
+    },
+    
+            {
+      "Question": "Which is the highest capital in the world?",
+      "CorrectAnswer": 2,
+      "Answers": [
+        {
+          "Answer": "Montevideo"
+        },
+        {
+          "Answer": "Lima"
+        },
+        {
+          "Answer": "La Paz"
+        },
+        {
+          "Answer": "Beijing"
+        }
+      ]
+    },
+    
+    {
+      "Question": "Kyoto was the earlier capital of?",
+      "CorrectAnswer": 1,
+      "Answers": [
+        {
+          "Answer": "South Korea"
+        },
+        {
+          "Answer": "Japan"
+        },
+        {
+          "Answer": "Laos"
+        },
+        {
+          "Answer": "Vietnam"
+        }
+      ]
+    },
+    
+        {
+      "Question": "Which country's capital is made up of two cities joined together by a single bridge?",
+      "CorrectAnswer": 2,
+      "Answers": [
+        {
+          "Answer": "India"
+        },
+        {
+          "Answer": "Spain"
+        },
+        {
+          "Answer": "Hungary"
+        },
+        {
+          "Answer": "Albania"
+        }
+      ]
+    },
+    
+     {
+      "Question": "What is the capital of Israel?",
+      "CorrectAnswer": 2,
+      "Answers": [
+        {
+          "Answer": "Golan"
+        },
+        {
+          "Answer": "Jerusalem"
+        },
+        {
+          "Answer": "Tel Aviv"
+        },
+        {
+          "Answer": "Hebron"
+        }
+      ]
+    },
+    
+       {
+      "Question": "Which capital hosts the seat of the International Court of Justice ?",
+      "CorrectAnswer": 0,
+      "Answers": [
+        {
+          "Answer": "The Hague"
+        },
+        {
+          "Answer": "Geneva"
+        },
+        {
+          "Answer": "Washington D.C."
+        },
+        {
+          "Answer": "London"
+        }
+      ]
+    },
+    
+           {
+      "Question": "A very famous computer science puzzle is named after the capital of which city?",
+      "CorrectAnswer": 1,
+      "Answers": [
+        {
+          "Answer": "USA"
+        },
+        {
+          "Answer": "Vietnam"
+        },
+        {
+          "Answer": "India"
+        },
+        {
+          "Answer": "China"
+        }
+      ]
+    },
+    
+               {
+      "Question": "Which is the largest capital city in terms of population?",
+      "CorrectAnswer": 3,
+      "Answers": [
+        {
+          "Answer": "Mexico City"
+        },
+        {
+          "Answer": "New Delhi"
+        },
+        {
+          "Answer": "Tokyo"
+        },
+        {
+          "Answer": "Manila"
+        }
+      ]
+    },
+    
+                   {
+      "Question": "Which is previous capital of Turkey was the city that spanned two continents?",
+      "CorrectAnswer": 3,
+      "Answers": [
+        {
+          "Answer": "Sebastopol"
+        },
+        {
+          "Answer": "Bosphorus"
+        },
+        {
+          "Answer": "Ankara"
+        },
+        {
+          "Answer": "Istanbul"
+        }
+      ]
+    },
+    
+                       {
+      "Question": "What was the capital of British India?",
+      "CorrectAnswer": 3,
+      "Answers": [
+        {
+          "Answer": "Karachi"
+        },
+        {
+          "Answer": "Madras"
+        },
+        {
+          "Answer": "Bombay"
+        },
+        {
+          "Answer": "Calcutta"
+        }
+      ]
+    },
+    
+                           {
+      "Question": "Apart from Vatican City which is the only country who's capital has no airport?",
+      "CorrectAnswer": 3,
+      "Answers": [
+        {
+          "Answer": "Afghanistan"
+        },
+        {
+          "Answer": "Azerbaijan"
+        },
+        {
+          "Answer": "Syria"
+        },
+        {
+          "Answer": "North Korea"
+        }
+      ]
+    },
+    
+    {
+              "Question": "What is the capital of Bhutan?",
+      "CorrectAnswer": 0,
+      "Answers": [
+        {
+          "Answer": "Thimpu"
+        },
+        {
+          "Answer": "Kathmandu"
+        },
+        {
+          "Answer": "Dhaka"
+        },
+        {
+          "Answer": "Wynchogbu"
+        }
+      ]
+    },
+    
+    {
+              "Question": "Which capital is called the city of Seven Hills?",
+      "CorrectAnswer": 3,
+      "Answers": [
+        {
+          "Answer": "Salamenca"
+        },
+        {
+          "Answer": "Mumbai"
+        },
+        {
+          "Answer": "Madrid"
+        },
+        {
+          "Answer": "Rome"
+        }
+      ]
+    },
+    
+     {
+              "Question": "Which is considerred to be the oldest capital city in the world?",
+      "CorrectAnswer": 0,
+      "Answers": [
+        {
+          "Answer": "Damascus"
+        },
+        {
+          "Answer": "Jerusalem"
+        },
+        {
+          "Answer": "Cairo"
+        },
+        {
+          "Answer": "New Delhi"
+        }
+      ]
+    },
+    
+    {
+              "Question": "What was the capital of West Germany",
+      "CorrectAnswer": 0,
+      "Answers": [
+        {
+          "Answer": "Bonn"
+        },
+        {
+          "Answer": "West Berlin"
+        },
+        {
+          "Answer": "Frankfurt am Main"
+        },
+        {
+          "Answer": "Hannover"
+        }
+      ]
+    },
+    
+        {
+              "Question": "Which country's capital is considered the richest per capita? ",
+      "CorrectAnswer": 3,
+      "Answers": [
+        {
+          "Answer": "Germany"
+        },
+        {
+          "Answer": "Denmark"
+        },
+        {
+          "Answer": "Norway"
+        },
+        {
+          "Answer": "Sweden"
+        }
+      ]
+    }
+     ]
+}
